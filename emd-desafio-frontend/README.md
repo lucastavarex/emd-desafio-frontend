@@ -1,6 +1,6 @@
 
 # Interactive Scrollytelling
-This is a interactive scrollytelling React app about the Crist the Reedemer.
+This is a interactive scrollytelling React app about Christ the Reedemer.
 
 
 ## Getting Started
