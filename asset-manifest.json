@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emd-desafio-frontend/static/css/main.bdba8336.chunk.css",
+    "main.js": "/emd-desafio-frontend/static/js/main.0b581802.chunk.js",
+    "main.js.map": "/emd-desafio-frontend/static/js/main.0b581802.chunk.js.map",
+    "runtime~main.js": "/emd-desafio-frontend/static/js/runtime~main.a07a5589.js",
+    "runtime~main.js.map": "/emd-desafio-frontend/static/js/runtime~main.a07a5589.js.map",
+    "static/js/2.d863c905.chunk.js": "/emd-desafio-frontend/static/js/2.d863c905.chunk.js",
+    "static/js/2.d863c905.chunk.js.map": "/emd-desafio-frontend/static/js/2.d863c905.chunk.js.map",
+    "index.html": "/emd-desafio-frontend/index.html",
+    "precache-manifest.bdf219a7a7d17533bd6f2bdbca7439bd.js": "/emd-desafio-frontend/precache-manifest.bdf219a7a7d17533bd6f2bdbca7439bd.js",
+    "service-worker.js": "/emd-desafio-frontend/service-worker.js",
+    "static/css/main.bdba8336.chunk.css.map": "/emd-desafio-frontend/static/css/main.bdba8336.chunk.css.map"
+  }
+}
